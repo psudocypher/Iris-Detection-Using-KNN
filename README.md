@@ -1,1 +1,1 @@
-# simple-KNN-program
+# Simple-KNN-Program

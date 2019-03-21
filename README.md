@@ -1,1 +1,1 @@
-# Simple-KNN-Program
+# Iris Detection Using KNN
